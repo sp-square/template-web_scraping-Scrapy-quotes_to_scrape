@@ -1,0 +1,1 @@
+# template-web_scraping-Scrapy-quotes_to_scrape
